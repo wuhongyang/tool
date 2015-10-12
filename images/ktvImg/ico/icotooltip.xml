@@ -1,0 +1,69 @@
+<icotooltip>
+<level>
+<item imgindex="1"  tip="普通会员"/>
+<item imgindex="2"  tip="高级会员"/>
+<item imgindex="3"  tip="白金会员"/>
+<item imgindex="4"  tip="消费4-15"/>
+<item imgindex="5"  tip="消费1-3"/>
+<item imgindex="6"  tip="国王"/>
+<item imgindex="7"  tip="公爵"/>
+<item imgindex="8"  tip="侯爵"/>
+<item imgindex="9"  tip="伯爵"/>
+<item imgindex="10" tip="子爵"/>
+<item imgindex="11" tip="男爵"/>
+<item imgindex="12" tip="V会员"/>
+<item imgindex="13"  tip="游戏至尊"/>
+<item imgindex="14"  tip="游戏群雄"/>
+<item imgindex="15"  tip="游戏高手"/>
+<item imgindex="16"  tip="消费1-3"/>
+<item imgindex="17"  tip="消费4-10"/>
+<item imgindex="18"  tip="消费11-20"/>
+<item imgindex="19"  tip="消费21-30"/>
+<item imgindex="20"  tip="上月消费前30"/>
+<item imgindex="21"  tip="警察"/>
+<item imgindex="22"  tip="王侯"/>
+<item imgindex="23"  tip="风云至尊"/>
+<item imgindex="24"  tip="将相至尊"/>
+</level>
+<vedio>
+<item imgindex="1"  tip="摄像头"/>
+<item imgindex="2"  tip="公麦"/>
+<item imgindex="3"  tip="私麦"/>
+<item imgindex="4"  tip="摄像头"/>
+</vedio>
+<money>
+<item imgindex="1"  tip="铜钱"/>
+<item imgindex="2"  tip="银元宝"/>
+<item imgindex="3"  tip="金元宝"/>
+<item imgindex="4"  tip="蓝钻"/>
+<item imgindex="5"  tip="绿钻"/>
+<item imgindex="6"  tip="紫钻"/>
+<item imgindex="7"  tip="皇冠"/>
+<item imgindex="8"  tip="紫冠"/>
+</money>
+<special>
+<item imgindex="1"  tip="超管"/>
+<item imgindex="2"  tip="代理"/>
+<item imgindex="3"  tip="室主"/>
+<item imgindex="4"  tip="艺人"/>
+<item imgindex="5"  tip="管理员"/>
+<item imgindex="6"  tip="副室主"/>
+<item imgindex="7"  tip="明星艺人"/>
+<item imgindex="8"  tip="客服"/>
+<item imgindex="9"  tip="站长"/>
+<item imgindex="10" tip="游戏至尊"/>
+<item imgindex="11" tip="游戏群雄"/>
+<item imgindex="12" tip="游戏高手"/>
+<item imgindex="13"  tip="区长"/>
+<item imgindex="14" tip="外宣"/>
+<item imgindex="15" tip="记者"/>
+<item imgindex="16" tip="高管"/>
+</special>
+<consumer>
+<item imgindex="1"  tip="普卡"/>
+<item imgindex="2"  tip="银卡"/>
+<item imgindex="3"  tip="金卡"/>
+<item imgindex="4"  tip="白金卡"/>
+<item imgindex="5"  tip="钻石卡"/>
+</consumer>
+</icotooltip>

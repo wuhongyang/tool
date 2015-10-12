@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<script type="text/javascript" src="../boia.js"></script>
+	<meta charset="UTF-8">
+    	<title>dialog</title>
+    	<style type="text/css">
+    		.hide {
+    			display: none;
+    		}
+		*{
+			margin: 0;
+			padding: 0;
+		}
+		.b-mask {
+			position: absolute;
+			background: white;
+			opacity: 0.7;
+		}
+		.b-window {
+			position: absolute;
+			outline: none;
+
+height: 132px;
+right: auto;
+left: 822px;
+top: 298px;
+z-index: 19021;
+width: 276px;
+		}
+		.b-window-default {
+			border-radius: 4px;
+			padding: 0px 0px 0px 0px;
+			border-width: 5px;
+			border-style: solid;
+			background-color: white;
+			border-color: #3892d3;
+		}
+		.b-window-header {
+			color: white;
+			position: absolute;
+			border-color: #3892d3;
+			border-width: 5px;
+			border-top-right-radius: 4px;
+			border-top-left-radius: 4px;
+			border-bottom-right-radius: 0;
+			border-bottom-left-radius: 0;
+			/*padding: 5px 5px 5px 5px;*/
+			border-style: solid;
+			background-color: #3892d3;
+
+right: auto;
+left: -5px;
+top: -5px;
+width: 276px;
+		}
+		.b-tool {
+			width: 16px;
+			height: 16px;
+			right: 0;
+			top: 0px;
+			margin: 0px;
+			cursor: pointer;
+			position: absolute;
+		}
+		.b-tool-img {
+			opacity: 0.5;
+			background-color: #3892d3;
+			overflow: hidden;
+			width: 16px;
+			height: 16px;
+			background-image: url(tool-sprites.png);
+			margin: 0;
+		}
+		.b-tool-close {
+			background-position: 0 0;
+		}
+		.b-window-header:hover {
+			cursor: move;
+		}
+		.b-window-header:after {
+			display: none;
+		}
+		.b-window-body {
+			padding: 5px;
+			border-color: #3892d3;
+			border-width: 1px;
+			/*border-style: solid;*/
+			background: white;
+			color: black;
+			position: relative;
+			overflow: hidden;
+left: 0px;
+top: 31px;
+width: 266px;
+height: 55px;
+		}
+		.b-window-footer {
+right: auto;
+left: 0px;
+bottom: 0;
+width: 270px;		
+
+			background: #dfeaf2;
+			border: 0;
+			margin: 0;
+			padding: 6px 0 6px 6px;
+			position: absolute;
+		}
+    	</style>
+</head>
+<body>
+	<a href="www.baidu.com">弹出对话框</a>
+	<div class="demo"></div>
+	<!-- <div class="b-window b-window-default" id="b-window">
+	    <div class="b-window-header">
+	          <span class="window-title">测试对话框</span>
+	          <div class="b-tool">
+	          		<img role="presentation" class="b-tool-img b-tool-close">
+	          </div>
+	    </div>
+	    <div class="b-window-body">
+	        <p>这是内容</p>
+	    </div>
+	    <div class="b-window-footer">
+	    </div>
+	</div> -->
+	<script type="text/javascript">
+    	(function(B){
+    		'use strict';
+
+    		B.one('a').on('click', function(event){
+    			event.preventDefault();
+    			B.MessageBox.alert();
+    		})
+    		
+    		/*new B.Modal({
+    			boundingBox: '.demo',
+    			title: '警告',
+    			bodyContent: '内容',
+    			buttons: [{
+    				label: '确认',
+    				on: ''
+    			},{
+    				label: '取消',
+    				on: ''
+    			}],
+    			isModal: true
+    		}).render();*/
+
+    	})(Boia);
+	</script>
+</body>
+</html>

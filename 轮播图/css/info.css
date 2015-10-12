@@ -1,0 +1,8 @@
+div{ display:block;}
+.home_content .content_bg .content_info_right .right_content div.info{ text-indent:0;}
+.home_content .content_bg .content_info_right .right_content div.info ul li{ border-bottom:dashed 1px #acacac; line-height:30px; padding-left:10px;}
+.home_content .content_bg .content_info_right .right_content div.info ul li span.time{ float:right; margin-right:30px;}
+.home_content .content_bg .content_info_right .right_content div.info ul li em{ border-width:4px; border-color:transparent transparent transparent #c00034; border-style:solid; width:0; height:0; line-height:0; font-size:0; vertical-align:middle; margin-right:8px;}
+.home_content .content_bg .content_info_right{ min-height:460px; max-height:550px;}
+.home_content .content_bg .content_page{ clear:left; text-align:center;}
+.home_content .content_bg .content_page .pagination ul li{ display:inline-block;}

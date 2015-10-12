@@ -1,0 +1,30 @@
+<ico>
+<level_ico>
+<item name="普通会员"		noble_type="0"/>
+<item name="高级会员"		noble_type="0"/>
+<item name="白金会员"		noble_type="0"/>
+<item name="消费4-10名"		noble_type="0"/>
+<item name="消费1-3名"		noble_type="0"/>
+<item name="国王"			noble_type="1"/>
+<item name="公爵"			noble_type="2"/>
+<item name="侯爵"			noble_type="3"/>
+<item name="伯爵"			noble_type="4"/>
+<item name="子爵"			noble_type="5"/>
+<item name="男爵"			noble_type="6"/>
+</level_ico>
+<video_ico>
+<item path="face\\ico\\video.bmp" />
+<item path="face\\ico\\mai1.bmp" />
+<item path="face\\ico\\mai2.bmp" />
+<item path="face\\ico\\mai3.bmp" />
+</video_ico>
+<scroll_bar>
+<item path="face\\sys\\scroolbar.bmp" />
+</scroll_bar>
+<scroll_text_bg>
+<item path="face\\sys\\scroll_text_bg.bmp" />
+</scroll_text_bg>
+<scroll_text_bg_h3>
+<item path="face\\sys\\scroll_text_bg_h3.bmp" />
+</scroll_text_bg_h3>
+</ico>

@@ -1,0 +1,159 @@
+<goods>
+<names>
+<item emotion="幸运" wealth="抢星" gift="情感" check="娱乐" tab5="节日" />
+</names>
+<emotion>
+<item name=" 玫瑰  1000" value="1000" img="face\Gift\Gift001.gif" tooltip="玫瑰，价值：1000 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name=" 啤酒  1000" value="1000" img="face\Gift\Gift002.gif" tooltip="啤酒，价值：1000 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name=" 萤火  1000" value="1000" img="face\Gift\Gift003.gif" tooltip="萤火，价值：1000 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name=" 香烟 1000" value="1000" img="face\Gift\Gift005.gif" tooltip="香烟，价值：1000 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name=" 拥抱 1000" value="1000" img="face\Gift\Gift006.gif" tooltip="拥抱，价值：1000 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name="千纸鹤 1000" value="1000" img="face\Gift\Gift007.gif" tooltip="千纸鹤，价值：1000 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name="  香吻  1000" value="1000" img="face\Gift\Gift008.gif" tooltip="香吻，价值：1000 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name="载歌载  1000" value="1000" img="face\Gift\Gift009.gif" tooltip="载歌载舞，价值：1000 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name="  礼盒  1000" value="1000" img="face\Gift\Gift010.gif" tooltip="礼盒，价值：1000 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name=" 水果  2000" value="2000" img="face\Gift\Gift004.gif" tooltip="水果，价值：2000 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="蓝色妖  1万" value="10000" img="face\Gift\Gift011.gif" tooltip="蓝色妖姬，价值：1万 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="黄玫瑰  1万" value="10000" img="face\Gift\Gift012.gif" tooltip="黄玫瑰，价值：1万 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="星光大  1万" value="10000" img="face\Gift\Gift013.gif" tooltip="星光大道，价值：1万 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="星光麦  1万" value="10000" img="face\Gift\Gift014.gif" tooltip="星光麦克，价值：1万 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="你最闪  1万" value="10000" img="face\Gift\Gift015.gif" tooltip="你最闪亮，价值：1万 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name=" 香水  1万" value="10000" img="face\Gift\Gift016.gif" tooltip="香水，价值：1万 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="巧克力  1万" value="10000" img="face\Gift\Gift017.gif" tooltip="巧克力，价值：1万 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name=" 元宝  1万" value="10000" img="face\Gift\Gift018.gif" tooltip="元宝，价值：1万 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name=" 红酒  1万" value="10000" img="face\Gift\Gift019.gif" tooltip="红酒，价值：1万 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name=" 天使  1万" value="10000" img="face\Gift\Gift020.gif" tooltip="天使，价值：1万 金币\n送出后最高有机会获得1000倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name=" 皇冠  5万" value="50000" img="face\Gift\Gift021.gif" tooltip="皇冠，价值：5万 金币\n送出后最高有机会获得500倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="金龙鱼  5万" value="50000" img="face\Gift\Gift022.gif" tooltip="金龙鱼，价值：5万 金币\n送出后最高有机会获得500倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="聚宝盆  10万" value="100000" img="face\Gift\Gift023.gif" tooltip="聚宝盆，价值：10万 金币\n送出后最高有机会获得500倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="摇钱树  10万" value="100000" img="face\Gift\Gift024.gif" tooltip="摇钱树，价值：10万 金币\n送出后最高有机会获得500倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="芭比娃  10万" value="100000" img="face\Gift\Gift025.gif" tooltip="芭比娃娃，价值：10万 金币\n送出后最高有机会获得500倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name=" 跑车  10万" value="100000" img="face\Gift\Gift030.gif" tooltip="跑车，价值：10万 金币\n送出后最高有机会获得500倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="歌舞皇  20万" value="200000" img="face\Gift\Gift026.gif" tooltip="歌舞皇后，价值：20万 金币\n送出后最高有机会获得500倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="明星秀  20万" value="200000" img="face\Gift\Gift027.gif" tooltip="明星秀，价值：20万 金币\n送出后最高有机会获得500倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="金苹果  50万" value="500000" img="face\Gift\Gift028.gif" tooltip="金苹果，价值：50万 金币\n送出后最高有机会获得500倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="金碧辉  50万" value="500000" img="face\Gift\Gift029.gif" tooltip="金碧辉煌，价值：50万 金币\n送出后最高有机会获得500倍奖金喔！" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name=" 支票  10万" value="100000" img="face\Gift\Gift187.gif" tooltip="支票，价值：10万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="现金票  10万" value="100000" img="face\Gift\Gift188.gif" tooltip="现金票，价值：10万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+</emotion>
+<wealth>
+<item name="熏衣草  100万" value="1000000" img="face\flash\flash000150.gif" tooltip="熏衣草，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="康乃馨  100万" value="1000000" img="face\flash\flash000151.gif" tooltip="康乃馨，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="百合花  100万" value="1000000" img="face\flash\flash000152.gif" tooltip="百合花，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="宝马  100万" value="1000000" img="face\flash\flash000157.gif" tooltip="宝马，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="奔驰  200万" value="2000000" img="face\flash\flash000159.gif" tooltip="奔驰，价值：200万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="法拉利  200万" value="2000000" img="face\flash\flash000161.gif" tooltip="法拉利，价值：200万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="百花香  300万" value="3000000" img="face\flash\flash000155.gif" tooltip="百花香，价值：300万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="兰博基  300万" value="3000000" img="face\flash\flash000160.gif" tooltip="兰博基尼，价值：300万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="金麦克  500万" value="5000000" img="face\flash\flash000169.gif" tooltip="金麦克，价值：500万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="导弹   500万" value="5000000" img="face\flash\flash000175.gif" tooltip="导弹，价值：500万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="航母   1000万" value="10000000" img="face\flash\flash000177.gif" tooltip="航母，价值：1000万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="城市  5000万" value="50000000" img="face\flash\flash000179.gif" tooltip="城市，价值：5000万 金币" showgreeting="0"  dynamicgift="1"/>
+</wealth>
+<gift>
+<item name="爱心烛  1万" value="10000" img="face\Gift\Gift052.gif" tooltip="爱心烛，价值：1万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="丘比特  1万" value="10000" img="face\Gift\Gift054.gif" tooltip="丘比特，价值：1万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="月亮心  1万" value="10000" img="face\Gift\Gift060.gif" tooltip="月亮心，价值：1万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="爱久久  1万" value="10000" img="face\Gift\Gift061.gif" tooltip="爱久久，价值：1万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="生日蛋  1万" value="10000" img="face\Gift\Gift062.gif" tooltip="生日蛋糕，价值：1万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="网恋证  1万" value="10000" img="face\Gift\Gift078.gif" tooltip="网恋证，价值：1万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name=" 钻戒   5万" value="50000" img="face\Gift\Gift063.gif" tooltip="钻戒，价值：5万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="蓝钻石  5万" value="50000" img="face\Gift\Gift066.gif" tooltip="蓝钻石，价值：5万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="钟爱一 10万" value="100000" img="face\Gift\Gift067.gif" tooltip="钟爱一生，价值：10万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="一生一  10万" value="100000" img="face\Gift\Gift068.gif" tooltip="一生一世，价值：10万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="守候一 10万" value="100000" img="face\Gift\Gift069.gif" tooltip="守候一生，价值：10万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="甜蜜的 10万" value="100000" img="face\Gift\Gift070.gif" tooltip="甜蜜的吻，价值：10万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="幸福拥 10万" value="100000" img="face\Gift\Gift071.gif" tooltip="幸福拥抱，价值：10万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="黄金袋 10万" value="100000" img="face\Gift\Gift081.gif" tooltip="黄金袋，价值：10万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="久久花 50万" value="500000" img="face\Gift\Gift074.gif" tooltip="久久花束，价值：50万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="美女  100万" value="1000000" img="face\Gift\Gift072.gif" tooltip="美女，价值：100万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="帅哥  100万" value="1000000" img="face\Gift\Gift073.gif" tooltip="帅哥，价值：100万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="久久花  100万" value="1000000" img="face\Gift\Gift075.gif" tooltip="久久花篮，价值：100万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="不离不  100万" value="1000000" img="face\Gift\Gift076.gif" tooltip="不离不弃，价值：100万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="龙凤证  100万" value="1000000" img="face\Gift\Gift077.gif" tooltip="龙凤证，价值：100万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="求婚   200万" value="2000000" img="face\flash\flash000200.gif" tooltip="求婚，价值：200万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="分手   200万" value="2000000" img="face\flash\flash000203.gif" tooltip="分手，价值：200万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="离婚   200万" value="2000000" img="face\flash\flash000204.gif" tooltip="离婚，价值：200万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="结婚   300万" value="3000000" img="face\flash\flash000201.gif" tooltip="结婚，价值：300万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="婚礼   500万" value="5000000" img="face\flash\flash000202.gif" tooltip="婚礼，价值：500万 金币" showgreeting="0"  dynamicgift="1"/>
+</gift>
+<check>
+<item name="欢迎光  1000" value="1000" img="face\Gift\Gift083.gif" tooltip="欢迎光临，价值：1000 金币" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name="  鼓掌  1000" value="1000" img="face\Gift\Gift084.gif" tooltip="鼓掌，价值：1000 金币" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name="  花杂  1000" value="1000" img="face\Gift\Gift085.gif" tooltip="花杂，价值：1000 金币" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name="  咖啡  1000" value="1000" img="face\Gift\Gift086.gif" tooltip="咖啡，价值：1000 金币" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name="  板砖  1000" value="1000" img="face\Gift\Gift087.gif" tooltip="板砖，价值：1000 金币" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name="  称赞  1000" value="1000" img="face\Gift\Gift088.gif" tooltip="称赞，价值：1000 金币" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name="  红包  1000" value="1000" img="face\Gift\Gift089.gif" tooltip="红包，价值：1000 金币" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name="  喜糖  1000" value="1000" img="face\Gift\Gift090.gif" tooltip="喜糖，价值：1000 金币" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name="  谢谢  1000" value="1000" img="face\Gift\Gift091.gif" tooltip="谢谢，价值：1000 金币" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name="舒而爽  1000" value="1000" img="face\Gift\Gift097.gif" tooltip="舒而爽，价值：1000 金币" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name="绿帽子  1000" value="1000" img="face\Gift\Gift098.gif" tooltip="绿帽子，价值：1000 金币" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name="打屁屁  1000" value="1000" img="face\Gift\Gift099.gif" tooltip="打屁屁，价值：1000 金币" showgreeting="0" dynamicgift="0" showeffect="1"/>
+<item name="  香吻  2000" value="2000" img="face\Gift\Gift092.gif" tooltip="香吻，价值：2000 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="  音符  2000" value="2000" img="face\Gift\Gift095.gif" tooltip="音符，价值：2000 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name=" 家法  2000" value="2000" img="face\Gift\Gift100.gif" tooltip="家法，价值：2000 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name=" 子弹  2000" value="2000" img="face\Gift\Gift101.gif" tooltip="子弹，价值：2000 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name=" 心吻  1万" value="10000" img="face\Gift\Gift102.gif" tooltip="心吻，价值：1万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="   龟    1万" value="10000" img="face\Gift\Gift103.gif" tooltip="龟，价值：1万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="嫁给我  1万" value="10000" img="face\Gift\Gift104.gif" tooltip="嫁给我，价值：1万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="定情信  1万" value="10000" img="face\Gift\Gift105.gif" tooltip="定情信物，价值：1万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="发财  10万" value="100000" img="face\Gift\Gift106.gif" tooltip="发财，价值：10万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="公主  10万" value="100000" img="face\Gift\Gift107.gif" tooltip="公主，价值：10万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="一帆风  10万" value="100000" img="face\Gift\Gift108.gif" tooltip="一帆风顺，价值：10万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="点歌支  100万" value="1000000" img="face\Gift\Gift109.gif" tooltip="点歌支票，价值：100万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="酒店  100万" value="1000000" img="face\flash\flash000170.gif" tooltip="酒店，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="庄园  100万" value="1000000" img="face\flash\flash000171.gif" tooltip="庄园，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="粉玫瑰  100万" value="1000000" img="face\flash\flash000153.gif" tooltip="粉玫瑰，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="马蹄莲  100万" value="1000000" img="face\flash\flash000154.gif" tooltip="马蹄莲，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="城堡   200万" value="2000000" img="face\flash\flash000172.gif" tooltip="城堡，价值：200万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="飞机   300万" value="3000000" img="face\flash\flash000173.gif" tooltip="飞机，价值：300万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="轮船   500万" value="5000000" img="face\flash\flash000176.gif" tooltip="轮船，价值：500万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="游乐场 1000万" value="10000000" img="face\flash\flash000178.gif" tooltip="游乐场，价值：1000万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="支票  1000万" value="10000000" img="face\flash\flash000180.gif" tooltip="支票，价值：1000万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="财神爷 2000万" value="20000000" img="face\flash\flash000181.gif" tooltip="财神爷，价值：2000万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="点歌金  100万" value="1000000" img="face\Gift\Gift182.gif" tooltip="点歌金麦，价值：100万 金币\n使用后对方可以增加上麦时间，1个=5分钟。" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="点歌娃  100万" value="1000000" img="face\Gift\Gift183.gif" tooltip="点歌娃娃，价值：100万 金币\n使用后对方可以根据所得数量提高在排序中的位置。" showgreeting="0" dynamicgift="0" showeffect="0"/>
+</check>
+<tab5>
+<item name="情人节 1万" value="10000" img="face\Gift\Gift114.gif" tooltip="情人节，价值：1万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name=" 七夕   1万" value="10000" img="face\Gift\Gift115.gif" tooltip="七夕，价值：1万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="生日快  1万" value="10000" img="face\Gift\Gift117.gif" tooltip="生日快乐，价值：1万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="建军节  10万" value="100000" img="face\Gift\Gift112.gif" tooltip="建军节，价值：10万 金币" showgreeting="0" dynamicgift="0" showeffect="0"/>
+<item name="儿童节  10万" value="100000" img="face\flash\flash000174.gif" tooltip="儿童节，价值：10万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="生日快  100万" value="1000000" img="face\flash\flash000162.gif" tooltip="生日快乐，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="恭贺新  100万" value="1000000" img="face\flash\flash000163.gif" tooltip="恭贺新婚，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="开业庆  100万" value="1000000" img="face\flash\flash000164.gif" tooltip="开业庆典，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="开业大  100万" value="1000000" img="face\flash\flash000205.gif" tooltip="开业大吉，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="元旦  100万" value="1000000" img="face\flash\flash000168.gif" tooltip="元旦，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="春节  100万" value="1000000" img="face\flash\flash000184.gif" tooltip="春节，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="元宵节  100万" value="1000000" img="face\flash\flash000185.gif" tooltip="元宵节，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="情人节  100万" value="1000000" img="face\flash\flash000186.gif" tooltip="情人节，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="女人节  100万" value="1000000" img="face\flash\flash000189.gif" tooltip="女人节，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="愚人节  100万" value="1000000" img="face\flash\flash000190.gif" tooltip="愚人节，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="端午节  100万" value="1000000" img="face\flash\flash000166.gif" tooltip="端午节，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="教师节  100万" value="1000000" img="face\flash\flash000191.gif" tooltip="教师节，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="中秋节  100万" value="1000000" img="face\flash\flash000192.gif" tooltip="中秋节，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="国庆节  100万" value="1000000" img="face\flash\flash000193.gif" tooltip="国庆节，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="光棍节  100万" value="1000000" img="face\flash\flash000194.gif" tooltip="光棍节，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="圣诞节  100万" value="1000000" img="face\flash\flash000195.gif" tooltip="圣诞节，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="劳动节  100万" value="1000000" img="face\flash\flash000196.gif" tooltip="劳动节，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="清明节  100万" value="1000000" img="face\flash\flash000199.gif" tooltip="清明节，价值：100万 金币" showgreeting="0"  dynamicgift="1"/>
+<item name="吉祥礼 1000万" value="10000000" img="face\flash\flash000206.gif" tooltip="吉祥礼花，价值：1000万 金币\n送出后所有在房间内的房间管理平分奖金。" dynamicgift="1" showeffect="0" bFire="3"/>
+<item name="鸿运礼 2000万" value="20000000" img="face\flash\flash000207.gif" tooltip="鸿运礼花，价值：2000万 金币\n送出后所有在房间内的用户（不限身份）平分奖金。" dynamicgift="1" showeffect="0" bFire="4"/>
+</tab5>
+<count>
+<item name="" 		    value="1" showeffect="1"/>
+<item name=""   	    value="18" showeffect="1"/>
+<item name=""   	    value="99" showeffect="1"/>
+<item name=""           value="199" showeffect="1"/>
+<item name=""   	    value="300" showeffect="1"/>
+<item name="我爱你"     value="520" showeffect="1"/>
+<item name="丘比特"     value="666" showeffect="1"/>
+<item name="发大财"     value="888" showeffect="1"/>
+<item name="就爱你"   	value="920" showeffect="1"/>
+<item name="比翼双飞" 	value="999" showeffect="1"/>
+<item name="一生一世" 	value="1314" showeffect="1"/>
+<item name="天长地久" 	value="9999" showeffect="1"/>
+</count>
+</goods>

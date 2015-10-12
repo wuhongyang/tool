@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>animal</title>
+	<style type="text/css">
+		.move{ position: relative; font-size: 40px; margin: 100px; letter-spacing: 15px; color: red; font-weight: bold; }
+		.single { display: inline-block; position: absolute; }
+		.single1 { left: 5px;  }
+		.single2 { left: 45px;  }
+		.single3 { left: 75px;  }
+		.single4 { left: 105px; }
+		.single5 { left: 135px; }
+		.single6 { left: 165px; }
+		.single7 { left: 195px; }				
+	</style>
+	<script type="text/javascript" src="../tween.js"></script>
+	<script type="text/javascript" src="../boia.js"></script>
+</head>
+<body>
+	<div id="container">
+		<div class="move">
+			<span class="single single1">L</span>
+			<span class="single single2">O</span>
+			<span class="single single3">A</span>
+			<span class="single single4">D</span>
+			<span class="single single5">I</span>
+			<span class="single single6">N</span>
+			<span class="single single7">G</span>
+		</div>
+	</div>
+	<script type="text/javascript">
+		(function(B) {
+	       		
+	       		var anim = new B.Anim({
+	       			node: '.move',
+	       			to: {
+	       				opacity: 0,
+	       				width: 200,
+	       				height: 100
+	       			},
+	       			duration: 50
+	       		}).run();
+			/*var start = 0,during = 5,b = 0, c = 40,x,top;
+			var single = B.one('.move').all('.single'), length = single.length, loop = 0;
+
+			function _runTop() {
+				top = B.Tween.Quad.easeOut(start,b,c,during);
+				single[loop].css('top','-'+top+'px');
+				if(start < during){
+					start++;
+					webkitRequestAnimationFrame(function(){
+						_runTop(loop);
+					});
+				}else {
+					webkitRequestAnimationFrame(function(){
+						_runBottom(loop);
+					});	
+				}
+			}
+
+			function _runBottom() {
+				top = B.Tween.Bounce.easeInOut(start,b,c,during);
+				single[loop].css('top','-'+top+'px');
+
+				if(start > 0) {
+					start--;
+					webkitRequestAnimationFrame(function(){
+						_runBottom(loop);
+					});
+				}else {
+					if(loop < (length-1)){
+						loop++;	
+					}else{
+						loop = 0;
+					}
+					webkitRequestAnimationFrame(function(){
+						_runTop(loop);
+					});
+				}
+			}
+
+			webkitRequestAnimationFrame(_runTop);*/
+
+	        	})(Boia);
+	</script>
+</body>
+</html>

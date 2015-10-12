@@ -1,0 +1,84 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+   <script src="jquery.min.js" type="text/javascript"></script>
+   <style>
+    
+body { padding: 50px; }
+.trapezium div{
+  font-family: "微软雅黑";
+  font-size:9px;
+  line-height: 30px
+
+}
+.trapezium-right {
+   height: 0; 
+   width: 90px;
+   border-radius: 0 8px 0 0;
+   border-bottom: 30px solid #ccecc1;
+   border-left: 40px solid transparent;
+   float:left;
+   margin-left: -40px;
+}
+.trapezium-left {
+   height: 0; 
+   width: 90px;
+   border-radius: 8px 0 0 0;
+   border-top: 30px solid #d2f5c8;
+   border-right: 40px solid transparent;   
+   float:left;
+}
+.tab-avtive{
+  border:1px  #ccc;
+}
+
+.trapezium-test-left {
+   margin-top:100px;
+   height: 30px; 
+   width: 80px;
+   background-color: #d2f5c8;
+   border-top:1px solid #ccc;
+   border-left:1px solid #ccc;
+   border-radius: 8px 0 0 0;
+   -webkit-transform:rotateX(10deg) skew(-20deg) scale(1.0) translate(100px,0);
+   float:left;
+}
+.trapezium-test-right {
+   margin-top:100px;
+   height: 30px; 
+   width: 80px;
+   background-color: #d2f5c8;
+   border-top:1px solid #ccc;
+   border-left:1px solid #ccc;
+   border-radius: 8px 0 0 0;
+   -webkit-transform:rotateX(10deg) skew(-20deg) scale(1.0) translate(100px,0);
+   float:left;
+}
+
+ .graph-left:before{
+      content: "K个房间";
+      display: block;
+      height: 0;
+      width: 70px;
+      border-width: 30px 0px 0px 30px;
+      border-style: none solid solid;
+      border-color: transparent transparent #d2f5c8;
+      border-radius: 8px 0 0 0;
+      margin-top: 300px
+  }
+
+
+      
+   </style>
+</head>
+<body>
+<div class="trapezium">
+<div class="trapezium-left">K歌大厅</div>
+<div class="trapezium-right">K歌房间</div>
+</div>
+<div class="trapezium-test-left"></div>
+<div class="trapezium-test-right"></div>
+
+<div class="graph-left"></div>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+   <meta charset="utf-8">
+   <style>
+    
+body { padding: 50px; }
+.trapezium li{
+  font-family: "微软雅黑";
+  font-size:9px;
+  line-height: 30px;
+  list-style-type:none; 
+}
+.trapezium-right {
+   height: 0; 
+   width: 80px;
+   border-width: 0px 0px 30px 40px;
+   border-style: solid;
+   border-color: transparent  transparent #ccecc1  transparent;
+   border-radius: 0 8px 0 0;
+   float:left;
+   margin-left: -40px;
+   position: relative;
+  
+ }
+.trapezium-left {
+   height: 0; 
+   width: 80px;
+   border-width: 30px 40px 0px 0px;
+   border-style: solid;
+   border-color: #d2f5c8 transparent transparent transparent;
+   border-radius: 8px 0 0 0;
+   float:left;
+   position: relative;
+}
+.trapezium .clear{
+  clear:both;
+}     
+.trapezium li a {
+  display: inline-block;
+  position: absolute;
+}
+
+.trapezium li a.left-up {
+  top: -30px;
+  padding-left: 20px;
+}
+.trapezium li:hover{
+  border-color: #d2f5c8;
+  cursor: pointer;
+}
+
+   </style>
+</head>
+<body>
+  <ul class="trapezium">
+    <li class="trapezium-left"><a class="left-up">K歌大厅</a></li>
+    <li class="trapezium-right"><a>K歌房间</a></li>
+    <li class="clear"></li>
+  </ul>
+
+</body>
+
+<script>
+</script>
+</html>

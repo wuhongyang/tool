@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="../../css/style.css">
+    <script type="text/javascript" src="../boia.js"></script>
+
+    <style>
+        body {padding: 100px;}
+        #myTooltip {width: 300px;height: 200px;background: #ccc;text-align: center;line-height: 200px;}
+
+    </style>
+</head>
+
+<body>
+    <div class="componentBox"></div>
+    <div id="myTooltip">
+        <input class="input" type="text" />
+        <button class="testBtn">这是一个测试按钮</button>
+    </div>
+    <script type="text/javascript">
+        (function(B) {
+
+            var d = document;
+
+            var tooltip = new B.Tooltip({
+                trigger: '.input',
+                position: 'bottom'
+            }).render();
+
+            B.one('.testBtn').on('click', function(event){
+                event.stopPropagation();
+                tooltip.contentBox.text( '改变');
+                tooltip.show();
+            });
+
+            console.log(tooltip.contentBox.nodeName)
+
+        })(Boia);
+    </script>
+</body>
+
+</html>

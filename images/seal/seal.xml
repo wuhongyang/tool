@@ -1,0 +1,103 @@
+<seal>
+<pagenames>
+<item pagename="称号" pagetype="1" order="1"/> 
+<item pagename="称赞" pagetype="2" order="2"/> 
+<item pagename="角色" pagetype="3" order="3"/>
+<item pagename="整蛊" pagetype="4" order="4"/>
+<item pagename="贵族" pagetype="5" order="5"/>
+</pagenames>
+<page1>
+<item tip="宅男（全场），价格：50000金币，时效：30分钟" path="face\\seal\\97.bmp" type="1" id="1" path2="face\\seal\\97.bmp"/>
+<item tip="宅女（全场），价格：50000金币，时效：30分钟" path="face\\seal\\98.bmp" type="1" id="2" path2="face\\seal\\98.bmp"/>
+<item tip="富婆（全场），价格：50000金币，时效：30分钟" path="face\\seal\\154.bmp" type="1" id="3" path2="face\\seal\\154.bmp"/>
+<item tip="老板（全场），价格：50000金币，时效：30分钟" path="face\\seal\\155.bmp" type="1" id="4" path2="face\\seal\\155.bmp"/>
+<item tip="寿星（全场），价格：50000金币，时效：30分钟" path="face\\seal\\150.bmp" type="1" id="5" path2="face\\seal\\150.bmp"/>
+<item tip="富二代（全场），价格：50000金币，时效：30分钟" path="face\\seal\\2010-11-2315fuerdai.bmp" type="1" id="6" path2="face\\seal\\2010-11-2315fuerdai.bmp"/>
+<item tip="牛人（全场），价格：50000金币，时效：30分钟" path="face\\seal\\1.bmp" type="1" id="7" path2="face\\seal\\1.bmp"/>
+<item tip="麦霸（全场），价格：50000金币，时效：30分钟" path="face\\seal\\4.bmp" type="1" id="8" path2="face\\seal\\4.bmp"/>
+<item tip="花心（全场），价格：50000金币，时效：30分钟" path="face\\seal\\11.bmp" type="1" id="9" path2="face\\seal\\11.bmp"/>
+<item tip="花痴（全场），价格：50000金币，时效：30分钟" path="face\\seal\\12.bmp" type="1" id="10" path2="face\\seal\\12.bmp"/>
+<item tip="酒鬼（全场），价格：50000金币，时效：30分钟" path="face\\seal\\19.bmp" type="1" id="11" path2="face\\seal\\19.bmp"/>
+<item tip="舞后（全场），价格：50000金币，时效：30分钟" path="face\\seal\\36.bmp" type="1" id="12" path2="face\\seal\\36.bmp"/>
+<item tip="小强（全场），价格：50000金币，时效：30分钟" path="face\\seal\\111.bmp" type="1" id="13" path2="face\\seal\\111.bmp"/>
+<item tip="忽悠（全场），价格：50000金币，时效：30分钟" path="face\\seal\\135.bmp" type="1" id="14" path2="face\\seal\\135.bmp"/>
+</page1>
+<page2>
+<item tip="给力（全场），价格：50000金币，时效：30分钟" path="face\\seal\\2010-11-23531geili.bmp" type="2" id="1" path2="face\\seal\\2010-11-23531geili.bmp"/>
+<item tip="歌神（全场），价格：50000金币，时效：30分钟" path="face\\seal\\43.bmp" type="2" id="2" path2="face\\seal\\43.bmp"/>
+<item tip="巨星（全场），价格：50000金币，时效：30分钟" path="face\\seal\\44.bmp" type="2" id="3" path2="face\\seal\\44.bmp"/>
+<item tip="美女（全场），价格：50000金币，时效：30分钟" path="face\\seal\\26.bmp" type="2" id="4" path2="face\\seal\\26.bmp"/>
+<item tip="帅哥（全场），价格：50000金币，时效：30分钟" path="face\\seal\\27.bmp" type="2" id="5" path2="face\\seal\\27.bmp"/>
+<item tip="偶像（全场），价格：50000金币，时效：30分钟" path="face\\seal\\33.bmp" type="2" id="6" path2="face\\seal\\33.bmp"/>
+<item tip="天使（全场），价格：50000金币，时效：30分钟" path="face\\seal\\39.bmp" type="2" id="7" path2="face\\seal\\39.bmp"/>
+<item tip="牛叉（全场），价格：50000金币，时效：30分钟" path="face\\seal\\148.bmp" type="2" id="8" path2="face\\seal\\148.bmp"/>
+<item tip="丰满（全场），价格：50000金币，时效：30分钟" path="face\\seal\\102.bmp" type="2" id="9" path2="face\\seal\\102.bmp"/>
+<item tip="性感（全场），价格：50000金币，时效：30分钟" path="face\\seal\\103.bmp" type="2" id="10" path2="face\\seal\\103.bmp"/>
+<item tip="幽默（全场），价格：50000金币，时效：30分钟" path="face\\seal\\104.bmp" type="2" id="11" path2="face\\seal\\104.bmp"/>
+<item tip="NB（全场），价格：50000金币，时效：30分钟" path="face\\seal\\106.bmp" type="2" id="12" path2="face\\seal\\106.bmp"/>
+<item tip="清纯（全场），价格：50000金币，时效：30分钟" path="face\\seal\\108.bmp" type="2" id="13" path2="face\\seal\\108.bmp"/>
+<item tip="辣妹（全场），价格：50000金币，时效：30分钟" path="face\\seal\\105.bmp" type="2" id="14" path2="face\\seal\\105.bmp"/>
+<item tip="可爱（全场），价格：50000金币，时效：30分钟" path="face\\seal\\3.bmp" type="2" id="15" path2="face\\seal\\3.bmp"/>
+<item tip="迷人（全场），价格：50000金币，时效：30分钟" path="face\\seal\\2.bmp" type="2" id="16" path2="face\\seal\\2.bmp"/>
+<item tip="惹火（全场），价格：50000金币，时效：30分钟" path="face\\seal\\5.bmp" type="2" id="17" path2="face\\seal\\5.bmp"/>
+<item tip="人才（全场），价格：50000金币，时效：30分钟" path="face\\seal\\32.bmp" type="2" id="18" path2="face\\seal\\32.bmp"/>
+</page2>
+<page3>
+<item tip="剩男（全场），价格：100000金币，时效：30分钟" path="face\\seal\\2010-11-23662shengnan.bmp" type="3" id="1" path2="face\\seal\\2010-11-23662shengnan.bmp"/>
+<item tip="剩女（全场），价格：100000金币，时效：30分钟" path="face\\seal\\2010-11-23128shengnv.bmp" type="3" id="2" path2="face\\seal\\2010-11-23128shengnv.bmp"/>
+<item tip="老婆（全场），价格：100000金币，时效：30分钟" path="face\\seal\\22.bmp" type="3" id="3" path2="face\\seal\\22.bmp"/>
+<item tip="老公（全场），价格：100000金币，时效：30分钟" path="face\\seal\\23.bmp" type="3" id="4" path2="face\\seal\\23.bmp"/>
+<item tip="相公（全场），价格：100000金币，时效：30分钟" path="face\\seal\\24.bmp" type="3" id="5" path2="face\\seal\\24.bmp"/>
+<item tip="娘子（全场），价格：100000金币，时效：30分钟" path="face\\seal\\25.bmp" type="3" id="6" path2="face\\seal\\25.bmp"/>
+<item tip="公主（全场），价格：100000金币，时效：30分钟" path="face\\seal\\166.bmp" type="3" id="7" path2="face\\seal\\166.bmp"/>
+<item tip="格格（全场），价格：100000金币，时效：30分钟" path="face\\seal\\138.bmp" type="3" id="8" path2="face\\seal\\138.bmp"/>
+<item tip="宝贝（全场），价格：100000金币，时效：30分钟" path="face\\seal\\165.bmp" type="3" id="9" path2="face\\seal\\165.bmp"/>
+<item tip="城管（全场），价格：100000金币，时效：30分钟" path="face\\seal\\167.bmp" type="3" id="10" path2="face\\seal\\167.bmp"/>
+<item tip="皇上（全场），价格：100000金币，时效：30分钟" path="face\\seal\\134.bmp" type="3" id="11" path2="face\\seal\\134.bmp"/>
+<item tip="皇后（全场），价格：100000金币，时效：30分钟" path="face\\seal\\133.bmp" type="3" id="12" path2="face\\seal\\133.bmp"/>
+<item tip="帮主（全场），价格：100000金币，时效：30分钟" path="face\\seal\\136.bmp" type="3" id="13" path2="face\\seal\\136.bmp"/>
+<item tip="丫头（全场），价格：100000金币，时效：30分钟" path="face\\seal\\137.bmp" type="3" id="14" path2="face\\seal\\137.bmp"/>
+</page3>
+<page4>
+<item tip="征婚（全场），价格：100000金币，时效：30分钟" path="face\\seal\\15.bmp" type="4" id="1" path2="face\\seal\\15.bmp"/>
+<item tip="打劫（全场），价格：100000金币，时效：30分钟" path="face\\seal\\18.bmp" type="4" id="2" path2="face\\seal\\18.bmp"/>
+<item tip="裸奔（全场），价格：100000金币，时效：30分钟" path="face\\seal\\2010-11-1999luoben.bmp" type="4" id="3" path2="face\\seal\\2010-11-1999luoben.bmp"/>
+<item tip="鸟人（全场），价格：100000金币，时效：30分钟" path="face\\seal\\2010-11-23440niaoren.bmp" type="4" id="4" path2="face\\seal\\2010-11-23440niaoren.bmp"/>
+<item tip="猪头（全场），价格：100000金币，时效：30分钟" path="face\\seal\\51.bmp" type="4" id="5" path2="face\\seal\\51.bmp"/>
+<item tip="色狼（全场），价格：100000金币，时效：30分钟" path="face\\seal\\52.bmp" type="4" id="6" path2="face\\seal\\52.bmp"/>
+<item tip="二奶（全场），价格：100000金币，时效：30分钟" path="face\\seal\\59.bmp" type="4" id="7" path2="face\\seal\\59.bmp"/>
+<item tip="闷骚（全场），价格：100000金币，时效：30分钟" path="face\\seal\\63.bmp" type="4" id="8" path2="face\\seal\\63.bmp"/>
+<item tip="人妖（全场），价格：100000金币，时效：30分钟" path="face\\seal\\65.bmp" type="4" id="9" path2="face\\seal\\65.bmp"/>
+<item tip="呕像（全场），价格：100000金币，时效：30分钟" path="face\\seal\\69.bmp" type="4" id="10" path2="face\\seal\\69.bmp"/>
+<item tip="饭桶（全场），价格：100000金币，时效：30分钟" path="face\\seal\\6.bmp" type="4" id="11" path2="face\\seal\\6.bmp"/>
+<item tip="胖子（全场），价格：100000金币，时效：30分钟" path="face\\seal\\7.bmp" type="4" id="12" path2="face\\seal\\7.bmp"/>
+<item tip="原配（全场），价格：100000金币，时效：30分钟" path="face\\seal\\8.bmp" type="4" id="13" path2="face\\seal\\8.bmp"/>
+</page4>
+<page5>
+<item tip="情圣（全场），价格：200000金币，时效：30分钟" path="face\\seal\\85.bmp" type="5" id="1" path2="face\\seal\\85.bmp"/>
+<item tip="情人（全场），价格：200000金币，时效：30分钟" path="face\\seal\\81.bmp" type="5" id="2" path2="face\\seal\\81.bmp"/>
+<item tip="型男（全场），价格：200000金币，时效：30分钟" path="face\\seal\\2010-11-2336xingnan.bmp" type="5" id="3" path2="face\\seal\\2010-11-2336xingnan.bmp"/>
+<item tip="索女（全场），价格：200000金币，时效：30分钟" path="face\\seal\\2010-11-23163suonv.bmp" type="5" id="4" path2="face\\seal\\2010-11-23163suonv.bmp"/>
+<item tip="极品（全场），价格：200000金币，时效：30分钟" path="face\\seal\\77.bmp" type="5" id="5" path2="face\\seal\\77.bmp"/>
+<item tip="波霸（全场），价格：200000金币，时效：30分钟" path="face\\seal\\404.bmp" type="5" id="6" path2="face\\seal\\404.bmp"/>
+<item tip="小样（全场），价格：200000金币，时效：30分钟" path="face\\seal\\84.bmp" type="5" id="7" path2="face\\seal\\84.bmp"/>
+<item tip="赌神（全场），价格：200000金币，时效：30分钟" path="face\\seal\\86.bmp" type="5" id="8" path2="face\\seal\\86.bmp"/>
+<item tip="销魂（全场），价格：200000金币，时效：30分钟" path="face\\seal\\118.bmp" type="5" id="9" path2="face\\seal\\118.bmp"/>
+<item tip="风流（全场），价格：200000金币，时效：30分钟" path="face\\seal\\119.bmp" type="5" id="10" path2="face\\seal\\119.bmp"/>
+<item tip="潮人（全场），价格：200000金币，时效：30分钟" path="face\\seal\\120.bmp" type="5" id="11" path2="face\\seal\\120.bmp"/>
+<item tip="妖精（全场），价格：200000金币，时效：30分钟" path="face\\seal\\121.bmp" type="5" id="12" path2="face\\seal\\121.bmp"/>
+<item tip="惊艳（全场），价格：200000金币，时效：30分钟" path="face\\seal\\122.bmp" type="5" id="13" path2="face\\seal\\122.bmp"/>
+<item tip="尤物（全场），价格：200000金币，时效：30分钟" path="face\\seal\\125.bmp" type="5" id="14" path2="face\\seal\\125.bmp"/>
+<item tip="二手（全场），价格：200000金币，时效：30分钟" path="face\\seal\\402.bmp" type="5" id="15" path2="face\\seal\\402.bmp"/>
+<item tip="神棍（全场），价格：200000金币，时效：30分钟" path="face\\seal\\406.bmp" type="5" id="16" path2="face\\seal\\406.bmp"/>
+<item tip="嚣张（全场），价格：200000金币，时效：30分钟" path="face\\seal\\410.bmp" type="5" id="17" path2="face\\seal\\410.bmp"/>
+<item tip="红人（全场），价格：200000金币，时效：30分钟" path="face\\seal\\411.bmp" type="5" id="18" path2="face\\seal\\411.bmp"/>
+<item tip="呆瓜（全场），价格：200000金币，时效：30分钟" path="face\\seal\\412.bmp" type="5" id="19" path2="face\\seal\\412.bmp"/>
+<item tip="传说（全场），价格：200000金币，时效：30分钟" path="face\\seal\\413.bmp" type="5" id="20" path2="face\\seal\\413.bmp"/>
+<item tip="拉登（全场），价格：200000金币，时效：30分钟" path="face\\seal\\414.bmp" type="5" id="21" path2="face\\seal\\414.bmp"/>
+<item tip="高手（全场），价格：200000金币，时效：30分钟" path="face\\seal\\418.bmp" type="5" id="22" path2="face\\seal\\418.bmp"/>
+<item tip="挺拔（全场），价格：200000金币，时效：30分钟" path="face\\seal\\420.bmp" type="5" id="23" path2="face\\seal\\420.bmp"/>
+<item tip="忧郁（全场），价格：200000金币，时效：30分钟" path="face\\seal\\423.bmp" type="5" id="24" path2="face\\seal\\423.bmp"/>
+<item tip="怪人（全场），价格：200000金币，时效：30分钟" path="face\\seal\\424.bmp" type="5" id="25" path2="face\\seal\\424.bmp"/>
+</page5>
+</seal>

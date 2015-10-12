@@ -1,0 +1,44 @@
+<icondescribe>
+<icontip>
+<item iconname="face\\ico\\special_ico003.gif"  tip="室主"/>
+<item iconname="face\\ico\\special_ico006.gif"  tip="副室主"/>
+<item iconname="face\\ico\\special_ico013.gif"  tip="区长"/>
+<item iconname="face\\ico\\special_ico017.gif"  tip="警察"/>
+<item iconname="face\\ico\\special_ico001.gif"  tip="超管"/>
+<item iconname="face\\ico\\special_ico008.gif"  tip="客服"/>
+<item iconname="face\\ico\\special_ico005.gif"  tip="管理员"/>
+<item iconname="face\\ico\\special_ico002.gif"  tip="代理"/>
+<item iconname="face\\ico\\special_ico007.gif"  tip="明星艺人"/>
+<item iconname="face\\ico\\special_ico004.gif"  tip="艺人"/>
+<item iconname="face\\ico\\level_ico006.gif"    tip="国王"/>
+<item iconname="face\\ico\\level_ico007.gif"    tip="公爵"/>
+<item iconname="face\\ico\\level_ico008.gif"    tip="侯爵"/>
+<item iconname="face\\ico\\level_ico009.gif"    tip="伯爵"/>
+<item iconname="face\\ico\\level_ico010.gif"    tip="子爵"/>
+<item iconname="face\\ico\\level_ico011.gif"    tip="男爵"/>
+<item iconname="face\\ico\\level_ico005.gif" tip="消费1-3名"/>
+<item iconname="face\\ico\\level_ico004.gif" tip="消费4-10名"/>
+<item iconname="face\\ico\\level_ico022.gif" tip="王侯"/>
+<item iconname="face\\ico\\level_ico023.gif" tip="风云至尊"/>
+<item iconname="face\\ico\\level_ico024.gif" tip="将相至尊"/>
+<item iconname="face\\ico\\special_ico010.gif" tip="游戏至尊"/>
+<item iconname="face\\ico\\special_ico011.gif" tip="游戏群雄"/>
+<item iconname="face\\ico\\special_ico012.gif" tip="游戏高手"/>
+<item iconname="face\\ico\\level_ico012.gif" tip="V会员"/>
+<item iconname="face\\ico\\level_ico003.gif" tip="白金会员"/>
+<item iconname="face\\ico\\level_ico002.gif" tip="高级会员"/>
+<item iconname="face\\ico\\level_ico001.gif" tip="普通会员"/>
+<item iconname="face\\Consume\\consume001.gif" tip="普卡（累计消费在1亿以上）"/>
+<item iconname="face\\Consume\\consume002.gif" tip="银卡（累计消费在10亿以上）"/>
+<item iconname="face\\Consume\\consume003.gif" tip="金卡（累计消费在50亿以上）"/>
+<item iconname="face\\Consume\\consume004.gif" tip="白金卡（累计消费在200亿以上）"/>
+<item iconname="face\\Consume\\consume005.gif" tip="钻石卡（累计消费在400亿以上）"/>
+</icontip>
+<color_config>
+<item type="scrollbar_color" 	red="211" green="224" blue="254"/>
+<item type="scrollbarbk_color"  red="224" green="240" blue="254"/>
+<item type="item_color" 		red="248" green="248" blue="255"/>
+<item type="word_color" 		red="0"   green="0"   blue="0"/>
+<item type="line_color" 		red="192" green="192" blue="192"/>
+</color_config>
+</icondescribe>

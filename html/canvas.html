@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	 <script src="jquery.min.js" type="text/javascript"></script>
+</head>
+<body>
+<canvas id="my"></canvas>
+
+<canvas id="myCanvas"></canvas>
+
+<canvas id="myCanvas1"></canvas> 
+
+<script type="text/javascript">
+
+var canvas = document.getElementById("myCanvas");
+     if (canvas == null) {
+        return false;
+     }
+  var context = canvas.getContext('2d');
+    
+      context.beginPath();
+      context.arc(200, 150, 100, 0, Math.PI * 2, true);
+     //不关闭路径路径会一直保留下去，当然也可以利用这个特点做出意想不到的效果
+     context.closePath();
+     context.fillStyle = 'rgba(0,255,0,0.25)';
+     context.fill();
+
+
+
+  var image1 = new Image();
+  
+      image1.src = "../images/seal/1.bmp";
+      var canvas1 = document.getElementById("myCanvas1");
+
+      if (canvas1 == null)
+         return false;
+     var context1 = canvas.getContext("2d");
+    context1.fillStyle = "#EEEEFF";
+
+    context1.fillRect(0,0,0,0);
+    image1.onload = function () {
+        context.drawImage(image1,100,200,40,20);
+    }
+
+var canvas2  =document.createElement("canvas");
+            canvas2.id = "myCanvas";
+            canvas2.setAttribute("width","40");
+            canvas2.setAttribute("height","20");
+            console.log(canvas2);
+             var image2 = new Image();
+             image2.src = "../images/seal/97.bmp";
+             var context2 = canvas.getContext("2d");
+             context2.fillStyle = "#EEEEFF";
+             context2.fillRect(0,0,0,0);
+            image2.onload = function () {
+                context2.drawImage(image2,300,500,40,20);
+            }
+            $("#my").append($(canvas2));
+
+
+</script>
+
+</body>
+</html>

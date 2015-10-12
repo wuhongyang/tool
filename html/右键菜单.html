@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" 代码笔记 www.198zone.com</title>
+</head>
+
+<body>
+<div>1231231231232312312312123123123123123</div>
+<script type="text/javascript">
+//屏蔽右键菜单
+document.oncontextmenu = function (event){
+  if(window.event){
+    event = window.event;
+  }try{
+    var the = event.srcElement;
+    console.log(event);
+    if (!((the.tagName == "INPUT" && the.type.toLowerCase() == "text") || the.tagName == "TEXTAREA")){
+      //return false;
+    }
+    //return true;
+  }catch (e){
+    //return false; 
+  } 
+}
+
+//屏蔽粘贴
+document.onpaste = function (event){
+  if(window.event){
+    event = window.event;
+  }try{
+    var the = event.srcElement;
+    console.log(event);
+    if (!((the.tagName == "INPUT" && the.type.toLowerCase() == "text") || the.tagName == "TEXTAREA")){
+      //return false;
+    }
+    //return true;
+  }catch (e){
+    //return false;
+  }
+}
+
+//屏蔽复制
+document.oncopy = function (event){
+  if(window.event){
+    event = window.event;
+  }try{
+    var the = event.srcElement;
+    console.log(event);
+    if(!((the.tagName == "INPUT" && the.type.toLowerCase() == "text") || the.tagName == "TEXTAREA")){
+      //return false;
+    }
+    //return true;
+  }catch (e){
+    //return false;
+  }
+}
+
+/*//屏蔽剪切
+document.oncut = function (event){
+  if(window.event){
+    event = window.event;
+  }try{
+    var the = event.srcElement;
+    if(!((the.tagName == "INPUT" && the.type.toLowerCase() == "text") || the.tagName == "TEXTAREA")){
+      return false;
+    }
+    return true;
+  }catch (e){
+    return false;
+  }
+}*/
+
+//屏蔽选中
+document.onselectstart = function (event){
+  if(window.event){
+    event = window.event;
+  }try{
+    var the = event.srcElement;
+    console.log(event,the);
+    if (!((the.tagName == "INPUT" && the.type.toLowerCase() == "text") || the.tagName == "TEXTAREA")){
+      //return false;
+    }
+    //return true;
+  } catch (e) {
+    //return false;
+  }
+}
+</script>
+
+
+</body>
+</html>

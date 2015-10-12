@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en" class="fuelux">
+
+<head>
+    <meta charset="utf-8">
+    <title>demo</title>
+    <script src="jquery.min.js" type="text/javascript"></script>
+</head>
+ <script>
+   $(function(){
+        $("#asd").click(function(){
+            var names = $('input[type="checkbox"]:checked').addClass("submit");
+            var ids = $('.submit');
+            console.log(ids.length);
+        });
+   })
+ </script>
+<body>
+ <div class="check">
+     <input type="checkbox" value="0" name="d" />dsf
+     <input type="checkbox" value="1" name="d" />dsf
+     <input type="checkbox" value="2" name="d" />dsf
+     <input type="checkbox" value="3" name="d" />dsf
+     <input type="checkbox" value="4" name="d" />dsf
+     <input type="checkbox" value="5" name="d" />dsf
+     <input type="checkbox" value="6" name="d" />dsf
+     <input type="checkbox" value="7" name="d" />dsf
+
+     <button id="asd">确定</button>
+ </div>
+</body>
+
+</html>

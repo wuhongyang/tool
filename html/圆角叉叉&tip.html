@@ -1,0 +1,183 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8"/>
+   <!-- <link  href="css/font/css3icon.css" type="text/css" rel="stylesheet"/>-->
+    <script src="js/angular1.2.4.js" type="text/javascript"></script>
+    <style>
+        .asas {
+            width:120px;
+            height:80px;
+            background:red;
+            position:relative;
+            -moz-border-radius:10px;
+            -webkit-border-radius:10px;
+            border-radius: 10px;
+            margin-left: 100px;
+            margin-bottom: 100px;
+
+        }
+        .asas:before {
+            content:"";
+            position:absolute;
+            right: 100%;
+            top: 26px;
+            width: 0;
+            height: 0;
+            border-top: 13px solid transparent;
+            border-right: 26px solid red;
+            border-bottom: 13px solid transparent;
+        }
+
+
+
+
+        .abc {
+            width:25px;
+            height:25px;
+            background:lightblue;
+            position:relative;
+            margin-left: 100px;
+            margin-bottom: 100px;
+
+        }
+        .abc:before {
+            content: "";
+            position: absolute;
+            top: 30%;
+            left: 30%;
+            width: 0;
+            height: 0;
+            border-right: 5px solid transparent;
+            border-top: 10px solid black;
+            border-left: 5px solid transparent;
+        }
+
+        .mm{
+            width: 20px;
+            height: 20px;
+            background-color: #F3F9FF;
+            border-radius: 10px;
+            border:1px solid #DBE6EF;
+            display: inline-block;
+            position: relative;
+            top: -10px;
+            left: -20px;
+        }
+
+        div.icon div.cross {
+            width: 10px;
+            height: 1px;
+            background: #333;
+            margin: 15px 0 0 4px;
+            -webkit-transform: rotate(-45deg);
+            -moz-transform: rotate(-45deg);
+            -ms-transform: rotate(-45deg);
+            -o-transform: rotate(-45deg);
+            transform: rotate(-45deg);
+            position: relative;
+            top: -5px;
+        }
+
+        div.icon div.cross:after {
+            content: '';
+            width: 10px;
+            height: 1px;
+            background: #333;
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            -webkit-transform: rotate(90deg);
+            -moz-transform: rotate(90deg);
+            -ms-transform: rotate(90deg);
+            -o-transform: rotate(90deg);
+            transform: rotate(90deg);
+        }
+
+
+        .panel{
+            display:inline-block;
+        }
+        .panel a{
+            border:1px solid #DBE6EF;
+            border-radius: 5px;
+            background-color:#F3F9FF ;
+            padding:10px;
+        }
+        /*content*/
+        .cross{
+            width: 20px;
+            height: 20px;
+            background-color: #F3F9FF;
+            border-radius: 10px;
+            border: 1px solid #DBE6EF;
+            display: inline-block;
+            position: relative;
+            top: -20px;
+            right: 22px;
+        }
+        .cross:after{
+            content: "\2715";
+            color: #4E4E4F;
+            font-size: 12px;
+            position: relative;
+            left: 3px;
+        }
+
+
+
+
+
+    </style>
+</head>
+<body>
+<div class="asas">123</div>
+
+<!--<div class="mm">
+    <div class="icon">
+        <div class="cross"></div>
+    </div>
+</div>-->
+
+
+
+
+<!--<div class="main">
+    <a>万寿无疆xssssssssjp@citycloud.com.cn</a>
+    <div class="mm">
+        <div class="icon">
+            <div class="cross"></div>
+        </div>
+    </div>
+</div>
+<div class="main"><a>习近平xjp@citycloud.com.cn</a>
+    <div class="mm">
+        <div class="icon">
+            <div class="cross"></div>
+        </div>
+    </div>
+</div>-->
+
+<div class="panel"><a>习近平xjp@citycloud.com.cn</a>
+    <div class="cross"></div>
+</div>
+
+
+<!--<div class="panel"><a>习近平xjp@citycloud.com.cn</a>
+    <div class="asd"></div>
+</div>-->
+<!--<div class="panel"><a>彭丽媛pengliyuan@citycloud.com.cn</a>
+    <div class="cross"></div>
+</div>
+<div class="panel"><a>李克强likeqiang@citycloud.com.cn</a>
+    <div class="cross"></div>
+</div>-->
+
+<div class="abc"></div>
+
+<!--<div class="ms"></div>-->
+
+<script type="text/javascript"></script>
+
+</body>
+</html>

@@ -1,0 +1,82 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+   <script src="js/jquery.min.js" type="text/javascript"></script>
+   <style>
+    body {
+    margin: 20px;
+	}
+	input[type="range"]{
+	    -webkit-appearance: none;
+	    -moz-apperance: none;
+	    width: 100px;
+	    height: 8px;
+	    padding: 0;
+	    border:1px solid #ccc;
+	    border-radius: 4px;	   
+	    background: #024069;
+	    margin-top: 25px;
+	    outline: none;
+	    background-image: -webkit-gradient(
+	        linear,
+	        left top,
+	        right top,
+	        color-stop(0.2, #007FFF),
+	        color-stop(0.2, white)
+	    );
+	}
+	input[type="range"]::-webkit-slider-thumb {
+        -webkit-appearance: none !important;
+        border-radius: 14px;
+        background-color: #fff;
+       text-align: center;
+       line-height: 12px;
+        border: 1px solid #999;
+        height: 14px;
+        width: 14px;
+      }
+      input[type="range"]::-webkit-slider-thumb:before{
+        content:"\002b";
+      }
+      
+
+      
+   </style>
+</head>
+<body>
+    <span><img src="../images/ktvImg/micvol.png"/></span><input class="my_range"id="my_mic" name="麦克风"type="range" min="1" max="100" step="1" value="20">&nbsp;&nbsp;
+    <span><img src="../images/ktvImg/voice.png"/></span><input class="my_range" id="my_voice" name="听筒"type="range" min="1" max="100" step="1" value="20">
+    <span><img src="../images/ktvImg/room.png"/></span><input class="my_range" id="my_music" name="音乐"type="range" min="1" max="100" step="1" value="20">
+</body>
+<script>
+	$(function(){
+	   var ranges = $('.my_range');
+	   $(ranges).each(function(){
+	   		setMyRange($(this).get(0));
+	   })
+	});
+	//监听
+	function setMyRange(range){
+
+		range.addEventListener("mouseup", function() {
+			var id = $(this).attr("id"),value = $(this).val(),name=$(this).attr("name");
+              console.log("当前点击的的是"+name+"音量设置，当前音量大小为："+value);
+              //连接业务逻辑处
+        });
+        
+        range.addEventListener("change",function(){
+        	var value = (range.value - range.min)/(range.max - range.min);
+		            range.style.backgroundImage = [
+		                '-webkit-gradient(',
+		                  'linear, ',
+		                  'left top, ',
+		                  'right top, ',
+		                  'color-stop(' + value + ', #007FFF), ',
+		                  'color-stop(' + value + ', white)',
+		                ')'
+		            ].join('');
+        });
+	}
+</script>
+</html>

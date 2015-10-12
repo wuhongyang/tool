@@ -1,0 +1,36 @@
+<html>
+<head>
+</head>
+	<body style="MARGIN: 0px;">
+		<marquee id="mar" onmouseover="this.stop();" onmouseleave="this.start();" scrollAmount="6"
+				scrollDelay="110" behavior="scroll" height="60px" onstart="on_marquee_start();">
+			</marquee>	
+	</body>
+<script language="javascript">
+function on_marquee_start()
+{
+	marquee_stop();
+	window.navigate("marquee_cmd:on_marquee_start");
+}
+function change_innerHtml(newcontent)
+{
+	document.getElementById("mar").innerHTML=newcontent;
+}
+function change_amount(newamount)
+{
+	document.getElementById("mar").scrollAmount=newamount;
+}
+function change_bkground(img)
+{
+	document.body.background=img;
+}
+function marquee_stop() 
+{
+	document.getElementById("mar").stop();
+}
+function marquee_start() 
+{
+	document.getElementById("mar").start();
+}
+</script>
+</html>

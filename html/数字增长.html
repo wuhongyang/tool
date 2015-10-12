@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <script src="js/jquery.min.js" type="text/javascript"></script>
+   <style>
+
+   </style>
+</head>
+<body ng-app>
+<span id="number"></span>
+ <span id="numberIn"></span>
+<span id="numberUp"></span>
+  <script type="text/javascript">
+      var number = 123143219843;
+      count($("#number"),$("#numberIn"),number);
+      countUp($("#numberUp"),number);
+    function  count($dom,$text,number){
+        $dom.text(number);
+       // $text.text(number);
+    }
+      function  countUp($dom,number){
+           var def = 0, duration = 3,int_speed =Math.ceil(duration*1000/60),speed = Math.round(number/int_speed)>0?Math.round(number/int_speed):number;
+           var int = setInterval(function(){
+               var now = def;
+                var n = (def+=speed)>number?number+"":def+"";
+               var s =n.replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,");
+               now<=number? $dom.text(s):clearInterval(int);
+           },60);
+      }
+
+
+</script>
+
+</body>
+</html>

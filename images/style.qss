@@ -1,0 +1,5 @@
+QDialog{
+    background:  url(:/loginUI/loginUI/login_bg.jpg) no-repeat;
+    border: 1px solid #D3D3D3;
+    border-radius: 10px;
+}

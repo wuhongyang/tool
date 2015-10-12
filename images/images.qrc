@@ -1,0 +1,63 @@
+<RCC>
+    <qresource prefix="/loginUI">
+        <file>loginUI/login_bg.jpg</file>
+        <file>loginUI/button_login_down.png</file>
+        <file>loginUI/button_login_hover.png</file>
+        <file>loginUI/button_login_normal.png</file>
+        <file>loginUI/delete_hover.png</file>
+        <file>loginUI/delete_normal.png</file>
+        <file>loginUI/delete_press.png</file>
+        <file>loginUI/password_hover.png</file>
+        <file>loginUI/password_normal.png</file>
+        <file>loginUI/password_press.png</file>
+        <file>loginUI/regist_down.png</file>
+        <file>loginUI/regist_hover.png</file>
+        <file>loginUI/regist_normal.png</file>
+        <file>loginUI/system_down.png</file>
+        <file>loginUI/system_hover.png</file>
+        <file>loginUI/system_normal.png</file>
+        <file>window/btn_close_down.png</file>
+        <file>window/btn_close_highlight.png</file>
+        <file>window/btn_close_normal.png</file>
+        <file>window/btn_max_down.png</file>
+        <file>window/btn_max_highlight.png</file>
+        <file>window/btn_max_normal.png</file>
+        <file>window/btn_mini_down.png</file>
+        <file>window/btn_mini_highlight.png</file>
+        <file>window/btn_mini_normal.png</file>
+        <file>window/btn_restore_down.png</file>
+        <file>window/btn_restore_highlight.png</file>
+        <file>window/btn_restore_normal.png</file>
+        <file>window/btn_set_hover.png</file>
+        <file>window/btn_set_normal.png</file>
+        <file>window/btn_set_press.png</file>
+        <file>window/projection.png</file>
+        <file>window/shadow.png</file>
+        <file>window/stroke.png</file>
+        <file>window/texture.png</file>
+    </qresource>
+    <qresource prefix="/window">
+        <file>window/btn_close_down.png</file>
+        <file>window/btn_close_highlight.png</file>
+        <file>window/btn_close_normal.png</file>
+        <file>window/btn_max_down.png</file>
+        <file>window/btn_max_highlight.png</file>
+        <file>window/btn_max_normal.png</file>
+        <file>window/btn_mini_down.png</file>
+        <file>window/btn_mini_highlight.png</file>
+        <file>window/btn_mini_normal.png</file>
+        <file>window/btn_restore_down.png</file>
+        <file>window/btn_restore_highlight.png</file>
+        <file>window/btn_restore_normal.png</file>
+        <file>window/btn_set_hover.png</file>
+        <file>window/btn_set_normal.png</file>
+        <file>window/btn_set_press.png</file>
+        <file>window/projection.png</file>
+        <file>window/shadow.png</file>
+        <file>window/stroke.png</file>
+        <file>window/texture.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>style.qss</file>
+    </qresource>
+</RCC>

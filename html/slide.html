@@ -1,0 +1,89 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	 <script src="js/jquery.min.js" type="text/javascript"></script>
+   <script src="js/jquery.slide.js" type="text/javascript"></script>
+   <style>
+   body { padding: 50px; }
+      .slide-box{
+        display:inline-block;
+        height:16px;
+        width:140px;
+        overflow: hidden;
+      }
+      .slide-box ul{
+        height:30px;
+        padding: 0px;
+        margin:0px;
+        border:0px;
+      }
+      .slide-box ul li{
+        width:140px;
+        height:16px;
+        list-style-type:none;
+        float:left;
+      }
+      .pre{
+         width: 0;
+         height: 0;
+         display:inline-block;
+         border-right: 12px solid black;
+         border-top: 6px solid transparent;
+         border-bottom: 6px solid transparent;
+      }
+      .next{
+         width: 0;
+         height: 0;
+         display:inline-block;
+         border-left: 12px solid black;
+         border-top: 6px solid transparent;
+         border-bottom: 6px solid transparent;
+      }     
+      .none-left{
+        border-right: 12px solid #ccc;
+      }
+      .none-right{
+        border-left: 12px solid #ccc;
+      }
+      .pre-next:hover{
+        cursor: pointer;
+      }
+      
+   </style>
+</head>
+<body>
+  <div class="slide-box">
+    <ul>
+      <li id="slide_0" data-index="0" class="active">
+        <img src="../images/ktvImg/ico/level_ico022.gif"/>
+        <img src="../images/ktvImg/ico/level_ico036.gif"/>
+        <img src="../images/ktvImg/ico/special_ico06.gif"/>
+        <img src="../images/ktvImg/ico/level_ico038.gif"/>
+        <img src="../images/ktvImg/ico/level_ico029.gif"/>
+        <img src="../images/ktvImg/ico/level_ico018.gif"/>
+      </li>
+      <li id="slide_1" data-index="1">
+        <img src="../images/ktvImg/ico/level_ico037.gif"/>
+        <img src="../images/ktvImg/ico/special_ico019.gif"/>
+        <img src="../images/ktvImg/ico/special_ico09.gif"/>
+        <img src="../images/ktvImg/ico/special_ico04.gif"/>
+        <img src="../images/ktvImg/ico/level_ico01.gif"/>
+        <img src="../images/ktvImg/ico/video.bmp"/>
+      </li>
+      <li id="slide_2" data-index="2">
+        <img src="../images/ktvImg/ico/special_ico015.gif"/>
+        <img src="../images/ktvImg/ico/level_ico032.gif"/>      
+      </li>
+    </ul>
+</div>
+<div class="pre pre-next" name="pre"></div>&nbsp;<div class="next pre-next" name="next"></div>
+  
+
+<script type="text/javascript">
+    $(function(){
+       $.slideBox.slide(".slide-box",140); 
+    });
+</script>
+
+</body>
+</html>
